@@ -1,0 +1,8 @@
+{
+  "name": "CRUDSQLITEDATABASE",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
